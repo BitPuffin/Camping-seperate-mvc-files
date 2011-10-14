@@ -1,0 +1,17 @@
+A simple example on how to split up your
+Model, view and controller.
+
+As your can see, all you need to do is to
+require (or in my case require_relative since
+I'm using ruby 1.9.2) in your application file
+(mine is called multitest.rb).
+
+Both require and require_relative should work 
+well!.
+
+This is useful when making apps with more code 
+that can get too hard to handle in one file
+(you usually write everything in one file 
+using camping).
+
+That is all!
